@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Chandani Mourya",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^8.0.2",
+    "@superfaceai/one-sdk": "^2.4.2",
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-translate": "^3.0.0",
+    "google-translate-api": "^2.3.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.0",
+    "node-localstorage": "^3.0.5",
+    "nodemon": "^3.0.1",
+    "razorpay": "^2.9.2"
+  }
+}

@@ -1,0 +1,39 @@
+.details_container .price_details {
+    margin-bottom: 1rem;
+}
+
+.details_container .price_details .pack_tag {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.details_container .price_details .price_tag {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.details_container .price_details .price_tag h4 {
+    font-size: 0.7rem;
+    display: inline;
+
+}
+
+hr {
+    border: 1.1px solid #f49187b2;
+}
+
+hr .pack_details {
+    text-align: left;
+    margin: 2rem 0;
+}
+
+hr .pack_details .details_line {
+    display: flex;
+    padding: 0.5rem 0;
+}
+
+hr .pack_details .details_line .icon_tag {
+    margin-right: 10px;
+    color: #ff1800;
+}

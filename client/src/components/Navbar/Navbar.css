@@ -1,0 +1,177 @@
+body {
+    top: 0 !important;
+}
+
+.main-nav {
+    min-height: 50px;
+    width: 100%;
+    margin: 0% auto;
+    border-top: solid 3px #ef8236;
+    box-shadow: 0px 1px 5px #00000033;
+    position: fixed;
+    z-index: 5;
+    top: 0%;
+    left: 0%;
+    background-color: #f8f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-nav .navbar {
+    height: 100%;
+    min-width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-nav .navbar .humbugger-icon {
+    display: none;
+    transition: 0.2s;
+    padding: 5px 6px 3px 6px;
+    border-radius: 50%;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.main-nav .navbar .hambugger-icon:hover {
+    background-color: rgb(226, 226, 226);
+}
+
+.main-nav .navbar .mid-nav {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.main-nav .navbar .mid-nav .nav-logo {
+    padding: 5px 25px;
+}
+
+.main-nav .navbar .mid-nav .nav-item {
+    margin: 0px 3px;
+    font-size: small;
+    font-weight: 500;
+    text-decoration: none;
+    color: rgb(69, 69, 69);
+    transition: 0.2s;
+}
+
+.main-nav .navbar .mid-nav .nav-item:hover {
+    background-color: rgb(223, 223, 223);
+}
+
+.main-nav .navbar .mid-nav .nav-btn {
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+
+.main-nav .navbar .mid-nav form {
+    flex-grow: 1;
+    padding: 0px 12px;
+    position: relative;
+}
+
+.main-nav .navbar .mid-nav form input {
+    min-width: 70%;
+    margin: 0;
+    padding: 8px 10px 8px 32px;
+    font-size: 13px;
+    border: solid 1px #0000003e;
+    border-radius: 3px;
+}
+
+.main-nav .navbar .mid-nav form .search-icon {
+    position: absolute;
+    left: 25px;
+    top: 8px;
+}
+
+
+
+.main-nav .navbar .end-nav {
+    display: flex;
+    align-items: center;
+}
+
+.main-nav .navbar .end-nav .nav-links {
+    padding: 7px 13px;
+    border: solid 1px blue;
+    border-radius: 3px;
+    background-color: #e7f8fe;
+    cursor: pointer;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.main-nav .navbar .end-nav .nav-links:hover {
+    background-color: #d3e4eb;
+}
+
+.skiptranslate {
+    top: initial !important;
+    bottom: 0 !important;
+}
+
+.goog-logo-link,
+.gskiptranslate,
+.goog-te-gadget span,
+.goog-te-banner-frame,
+#goog-gt-tt,
+.goog-te-balloon-frame,
+div#goog-gt- {
+    display: none !important;
+}
+
+
+.goog-te-gadget {
+    color: transparent !important;
+    font-size: 0px;
+}
+
+#google_translate_element select {
+    background-color: rgb(223, 223, 223);
+    border-radius: 20px;
+    font-size: 10pt;
+    font-weight: 800;
+    display: inline-block;
+    padding: 10px 10px !important;
+    cursor: pointer;
+    zoom: 1;
+}
+
+#google_translate_element select span {
+    color: rgb(69, 69, 69);
+
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+    .navbar .mid-nav form {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .main_nav {
+        .navbar {
+            .humbugger-icon {
+                display: block;
+            }
+        }
+    }
+
+
+}
+
+@media screen and (max-width: 620px) {
+    .navbar .mid-nav .res-nav {
+        display: none;
+    }
+}
