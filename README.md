@@ -91,23 +91,30 @@ Here are screenshorts of working of App
 
 Home Page
 
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/a77d8e03-27e1-4c15-b1e6-2a65db7e24dc)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/48bba665-f866-4035-85e2-109cbf28ca46)
 
 
 Questions Page
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/c2cdf3c4-62d6-4459-b3ae-410068724f0a)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/d8507d85-e56d-4182-9b16-c3e432be0370)
 
 Sign Up Page
 ![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/26b1250c-cd69-40db-aa3a-771eb1b8777e)
 
 Login Page
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/bce72e58-fc41-4c4f-b4d3-fa622068e8ed)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/593282e6-ffd8-4b8f-b9e0-676fd77b9a75)
 
 Ask Questions Page
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/d63c77ed-542f-44b2-b03c-ebb2fcff69a1)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/1528132e-68d8-4798-93d9-73a7ece5aefb)
 
 Question detail Page
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/ce45f275-5410-4b91-bc5b-78fcf50fb9e1)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/75a0e967-0b0b-4d8a-8e52-063f864f4bda)
 
 User Page
-![image](https://github.com/chandani7021/Stack-Overflow-Clone/assets/69253701/d21cf6e4-903d-42e6-a1fd-f4b7b65dce83)
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/5b7ab981-09fd-4e73-a2c3-c8ed2a9b8484)
+
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/4cbec812-dbe3-4f0b-909b-0288a29b2145)
+
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/935b7b7e-290f-4544-937f-ba7e11381dca)
+
+Subscription Page
+![image](https://github.com/chandani7021/stackoverflow_Clone/assets/69253701/0554a85f-facc-4613-a1a9-2eecd1bf6e94)
